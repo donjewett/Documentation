@@ -6,7 +6,7 @@ Getting Started with Wave Engine on Windows:
 
 # Prerequisites
 
-Every prerequisite is installed by Wave Engine installer, detecting whether it is already present on the OS. However, may occur errors with the automatic detection. In such case, please find the list below to download and install those manually:
+Every prerequisite is installed by Wave Engine installer, detecting whether it is already present on the OS. However, errors may occur with the automatic detection. In such case, please find the list below to download and install those manually:
 
  - [DirectX redistributable](http://www.microsoft.com/en-us/download/details.aspx?id=8109)
  - [.NET Framework 4.5.1](http://www.microsoft.com/en-us/download/details.aspx?id=40773)
@@ -31,13 +31,13 @@ Launch the setup file, it will firstly install the prerequisites followed by a c
 
 ![Wave Installer](images/WaveInstaller.PNG)
 
-Once the setup ends, you will find a Wave Visual Editor shortcut on your Desktop, which you can open through a double-click on it.
+Once the setup ends, you will find a Wave Visual Editor shortcut on your Desktop, which you can open by double-clicking.
 
 ![Wave Editor Short cut](images/WaveEditorShortCut.PNG)
 
 # Create a Wave Engine Account
 
-The first time you open Wave Visual Editor you will be asked for an user account.
+The first time you open Wave Visual Editor you will be asked for a user account.
 
 ![Wave login](images/WindowsLogin.PNG)
 
@@ -45,7 +45,7 @@ If you click on Create a new Account, the browser will take you to the [join for
 
 ![Register Wave](images/RegisterNewAccount.PNG)
 
-Please, fill such in and click on Submit. You should immediately receive a confirmation e-mail. Congratulations! You can now login into the Editor and proceed with your first application.
+Please, fill in the form and click Submit. You should immediately receive a confirmation e-mail. Congratulations! You can now login into the Editor and proceed with your first application.
 
 # Your First Application
 
